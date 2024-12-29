@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 const AboutPage = () => {
   return (
     <div>
-      <h1 className="text-xl">Hola mundo</h1>
+     
     <span className="text-7xl">About Page</span>
     </div>
   )
